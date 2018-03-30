@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 THEME = '/home/yano/dev/pelican-themes/fresh'
+#THEME = '/home/yano/dev/pelican-themes/subtle'
 AUTHOR = u'yano'
 SITENAME = u"#ircpuzzles"
 SITEURL = u'https://ircpuzzles.org'
@@ -15,6 +16,9 @@ MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 GITHUB_URL = u'https://github.com/ircpuzzles/'
 DISQUS_SITENAME = u'ircpuzzles'
 REVERSE_CATEGORY_ORDER = True
+#PATH = '/var/www/ircpuzzles.org/website/content'
+PATH = 'content'
+#ARTICLE_PATHS = ['solutions', 'rankings']
 OUTPUT_PATH = '/var/www/ircpuzzles.org/public/'
 RELATIVE_URLS = True
 TIMEZONE = 'UTC'
@@ -35,3 +39,5 @@ SOCIAL = (
 DATE_FORMATS = {
     'en': '%Y-%m-%d %H:%M',
 }
+
+DISPLAY_PAGES_ON_MENU = True
