@@ -6,6 +6,8 @@ Date: 2018-03-30 11:45
 
 This is a running and non-comprehensive list of "Guidelines" or things to know that can help out.
 
+ * Answers are channels you must join on freenode.
+ * Once you think you have solved it, `/join ######YourAnswer`
  * All levels will always start with `######` (6-six) octothorpes.
  * The official channels will be registered to the IRC account of **ircpuzzles**.
  * You can quickly see if a channel exists with `/mode ######channel_name`

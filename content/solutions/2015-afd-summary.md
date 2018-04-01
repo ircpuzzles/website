@@ -1,5 +1,5 @@
-Title: 2015 April Fool\'s Day (AFD) Summary & Solutions
-Date: 2017-03-31 15:48 UTC
+Title: 2015 April Fool's Day (AFD) Summary & Solutions
+Date: 2017-03-31 15:47 UTC
 Slug: 2015-afd-summary
 Author: vehk
 

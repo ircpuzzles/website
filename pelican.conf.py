@@ -4,21 +4,22 @@ THEME = '/home/yano/dev/pelican-themes/eevee'
 #THEME = '/home/yano/dev/pelican-themes/subtle'
 AUTHOR = u'yano'
 SITENAME = u"#ircpuzzles"
-SITEURL = u'https://ircpuzzles.org'
+SITEURL = 'https://ircpuzzles.org'
 
-TYPOGRIFY = True
+TYPOGRIFY = False
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
-GITHUB_URL = u'https://github.com/ircpuzzles/'
-DISQUS_SITENAME = u'ircpuzzles'
+GITHUB_URL = 'https://github.com/ircpuzzles/'
+DISQUS_SITENAME = 'ircpuzzles'
+COMMENTS_ON_PAGES = True
 REVERSE_CATEGORY_ORDER = True
 PATH = 'content'
 OUTPUT_PATH = '/var/www/ircpuzzles.org/public/'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 TIMEZONE = 'UTC'
 
 FEED_RSS = 'feeds/all.rss.xml'
@@ -66,3 +67,5 @@ LINKS = (
 USE_TWITTER_CARDS = True
 TWITTER_USERNAME = "ircpuzzles"
 USE_OPEN_GRAPH = True
+
+#TYPOGRIFY_IGNORE_TAGS = ['pre', 'code', 'meta', 'title']

@@ -1,4 +1,4 @@
-Title: 2017 April Fool\'s Day Summary & Solutions
+Title: 2017 April Fool's Day Summary & Solutions
 Date: 2018-03-18 19:20
 Slug: 2017-afd-summary
 Author: vehk

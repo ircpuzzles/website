@@ -10,6 +10,8 @@ We are an IRC-based puzzle game. Our home is currently in *#ircpuzzles* on chat.
 
 We host the annual April Fool's Puzzle and Challenges every year on April 1st as part of our celebration for April Fool's Day.
 
+Answers are channel names and individual progress from the first level to the final level.
+
 History
 -------
 
