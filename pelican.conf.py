@@ -69,3 +69,5 @@ TWITTER_USERNAME = "ircpuzzles"
 USE_OPEN_GRAPH = True
 
 #TYPOGRIFY_IGNORE_TAGS = ['pre', 'code', 'meta', 'title']
+
+GOOGLE_ANALYTICS = 'UA-51072782-1'
