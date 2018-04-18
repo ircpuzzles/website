@@ -1,4 +1,4 @@
-Title: 2017 April Fool\'s Day Rankings
+Title: 2017 April Fool's Day Rankings
 Date: 2018-02-20 19:00
 Slug: 2017-april-fools-rankings
 Author: yano
