@@ -3,30 +3,28 @@ Date: 2018-05-06 16:20
 Slug: 2018-afd-summary
 Author: vehk
 
-Puzzle solutions as written by the level's creators.
-
-## Level 0
+## Level 0 (vehk)
 ### Clues: IyMjIyMjQUZQQzIwMTgtVmlkZW9HYW1lcw==
 
 As per ircpuzzles tradition, the first puzzle is simply a base64-encoded
 string. This particular one decodes to: `######AFPC2018-VideoGames`.
 
-## Level 1
+## Level 1 (ybden)
 ### Clues: Join ######locked. this is the key.
 
 This level introduces channel keys. The solution was to join `######locked`
 with the key `this`.
 
-## Level 2
+## Level 2 (vehk)
 ### Clues: It's dangerous to go alone.
 
 As established in the entry channel, this year's theme was video
 games. The line from the topic is a reference to a very early screen
-in the original Legend of Zelda game. The complete line from the
+in the original _Legend of Zelda_ game. The complete line from the
 game includes `Take this.` at the end. The solution channel was
 `######takethis`.
 
-## Level 3
+## Level 3 (vehk)
 ### Clues: It is cvgpu oynpx. | Lbh ner yvxryl gb or rngra ol n ...
 
 Originally, this level only contained the first clue - part of a line in plain
@@ -44,25 +42,25 @@ reference with `grue` replaced by `...`
 
 Here, the solution channel is therefore `######grue`.
 
-## Level 4
+## Level 4 (vehk/ybden)
 ### Clues: This company released a console which shares its name with an epic.
 
 This level was a more straightforward fact-hunt rather than decoding clues and
 recognizing or searching for a given reference. The epic in question is
-Homer's Odyssey - a major Greek poem and sequel to the Iliad.
+Homer's _Odyssey_ - a major Greek poem and sequel to the Iliad.
 
-The company in question is Magnavox, who in 1972 released the first home video
+The company in question is _Magnavox_, who in 1972 released the first home video
 game console, the _Magnavox Odyssey_.
 
 The next level: `######magnavox`.
 
-## Level 5
+## Level 5 (vehk)
 ### Clues: eHl6enkK | response | what you did in the first one
 
 This level originally contained only the first clue, which (like the
 first level) is encoded with base64. It decodes to `xyzzy`.
 
-`xyzzy` is a command in Colossal Cave Adventure, a very early text
+`xyzzy` is a command in _Colossal Cave Adventure_, a very early text
 adventure game. Upon being given this command in the right room, the
 game would teleport you across the map to another room. Used anywhere
 else, and the game would tell you `Nothing happens.`
@@ -70,7 +68,7 @@ else, and the game would tell you `Nothing happens.`
 The second clue here makes clear that we were looking for a response to
 the `xyzzy` command. Thus, the next level was: `######nothinghappens`
 
-## Level 6
+## Level 6 (Fuchs)
 ### Clues: Interlude: A teenage group of nine in the late nineties, going all 3279272253. It really is, isn't it? | https://is.gd/lDrqzw
 
 The Teenage Group of 9 is a hint towards T9, a system to write texts
@@ -84,7 +82,7 @@ potential words 3279 27 2253 would generate with T9 - the following
 “It really is, isn’t it?” helping to confirm you got the right
 one.
 
-## Level 7
+## Level 7 (atk)
 ### Clues: https://is.gd/E9GSlr
 
 This level uses a [Nonogram](https://en.wikipedia.org/wiki/Nonogram)
@@ -92,7 +90,7 @@ puzzle to hide a sprite from the 1978 arcade game _Space Invaders_.
 
 The next level: `######spaceinvaders`
 
-## Level 8
+## Level 8 (vehk/ybden)
 ### Clues: C’FGC | Bobbin
 
 This one was a bit trickier. `C’FGC` is a draft from LucasArts'
@@ -104,8 +102,8 @@ the protagonist in _LOOM_.
 In the game, the `C’FGC` draft is called _Transcendence_, and therefore the
 next level is `######transcendence`.
 
-## Level 9
-### Clues: Clues: Difficult Farflung Islandwhistler | URL | gfycat
+## Level 9 (ybden/vehk)
+### Clues: Difficult Farflung Islandwhistler | URL | gfycat
 
 This level's topic underwent several drastic changes in the course of
 the competition. The one you see here is the final one. Originally, the
@@ -113,13 +111,13 @@ topic only consisted of the first clue.
 
 This puzzle relied on players having seen the memorable
 URL slugs certain websites use for their content. In this
-particular case, the clues linked to a gif on gfycat:
+particular case, the clues linked to a gif on _gfycat_:
 https://gfycat.com/DifficultFarflungIslandwhistler
 
 The last step was to identify the move portrayed in the gif, which was Ryu's
-Hadouken. This makes the next level: `######hadouken`.
+_Hadouken_. This makes the next level: `######hadouken`.
 
-## Level 10
+## Level 10 (vehk)
 ### Clues: When danger reared its ugly head / He bravely turned his tail and fled | life | 35°05′14″N 92°27′12″W
 
 Originally, this level only included the first two clues. The first one
@@ -130,15 +128,15 @@ runs away. Following Robin still, the minstrel then derides him, singing
 that he `bravely chickened out`.
 
 The second one, keeping in mind the video games theme, alludes to
-Conway's Game of Life (with the third and final clue confirming this).
+_Conway's Game of Life_ (with the third and final clue confirming this).
 
 [Sir Robin](http://www.conwaylife.com/wiki/Sir_Robin) is a spaceship in
-Conway's Game of Life found very recently - and the first elementary
+_Conway's Game of Life_ found very recently - and the first elementary
 knightship encountered.
 
 The solution was the systematic name of Sir Robin, `######282P6H2V1`
 
-## Level 11
+## Level 11 (Fuchs)
 ### Clues: In a game with a helpful Error, a bug by his name gave you something to show to …  | If all else fails, use fire
 
 The game we are looking for is [The Legend
@@ -158,7 +156,7 @@ googleable.
 
 ![use fire](images/afpc2018/usefire.png)
 
-## Level 12
+## Level 12 (Fuchs)
 ### Clues: Roses are 0°, violets are blue, walk in circles to find the clue. FF007F-0080FF 7F00FF-7FFF00 00FF7F-FF7F00, FF007F-0080FF-00FF7F-FF7F00, FF7F00-FF007F-0080FF-00FF7F 7F00FF-7FFF00 | Green meadows in the east, blue waters in the west, icy cyan in the south ... | the result is quite puzzle related
 
 A slightly harder riddle. ``Roses are 0°, violets are blue, walk in
@@ -182,10 +180,10 @@ comma-separated colour value, you'll end up with:
 This gives you the channel name, `######HUE`. The last hint shows you that you
 got the right solution.
 
-## Level 13
+## Level 13 (Fuchs)
 ### Clues: MPH: gotta go fast, fly high || Topic changed from "go fast" to "gotta go fast"
 
-Here we were looking for a character from the Sonic The Hedgehog video
+Here we were looking for a character from the _Sonic The Hedgehog_ video
 games series. ``Gotta go fast`` is Sonic's motto. However, ``MPH`` and
 ``fly high`` point towards someone else: Sonic has a fox sidekick,
 called Miles ``Tails`` Prower. His theme song, ``fly high``, was used in
@@ -195,18 +193,18 @@ As you can see in [his wikipedia article](https://en.wikipedia.org/wiki/Tails_(c
 his full name ``Miles Prower`` is a pun on miles per hour, MPH. Using his two
 tails he can fly short distances. Thus she answer was `######tails`.
 
-## Level 14
+## Level 14 (vehk)
 ### Clues: https://youtu.be/vbZGtzC_yZo
 
-The song in the topic is a vague reference to the Konami Code, which allowed
-you to obtain 30 extra lives in the NES version of Contra.
+The song in the topic is a vague reference to the _Konami Code_, which allowed
+you to obtain 30 extra lives in the NES version of _Contra_.
 
 The code itself was a combination of button inputs, namely:
 Up, Up, Down, Down, Left, Right, Left, Right, B, A.
 
 The matching solution channel is therefore `######UUDDLRLRBA`
 
-## Level 15
+## Level 15 (vehk)
 ### Clues: VAC | IRC | Mean, Median, ... | / | here
 
 This puzzle was a very obscure one, and originally only the first
@@ -223,16 +221,16 @@ in the channel itself.
 
 Thus the answer: `######valvetime`
 
-## Level 16
+## Level 16 (Fuchs)
 ### Clues: What kind of beast would get really close to you, just to step back and back again and kick you with No Mercy? | What a rare gem both of these were. | Trust your instinct, preserve your energy
 
 Quite a hard puzzle, looking for a character of the fighting game series
-Killer Instinct. It was developed by Rare, which the hint ``What a rare gem
+_Killer Instinct_. It was developed by Rare, which the hint ``What a rare gem
 both of these were`` pointed at. Said hint also helped at the end, since Rare
 developed, in its early days under a different name, a game named after the
 solution - Sabre Wulf.
 
-Like Mortal Kombat, Killer Instinct had a finishing move to kill the opponent.
+Like _Mortal Kombat_, Killer Instinct had a finishing move to kill the opponent.
 These were called ``No Mercy`` moves, and used a key combination to trigger.
 The character Sabre Wulf had the combination Back, Back, Kick when standing
 close to the enemy, which the clue hinted at.
@@ -244,7 +242,7 @@ preserve their energy bar after winning the first of two rounds.
 
 The solution channel was: `######sabrewulf`
 
-## Level 17
+## Level 17 (Fuchs)
 ### Clues: Interlude: I'm sitting at the table, expensive cutlery in front, but a bit further just a canned food to eat. I look at the nobles across, the poor person on the left, the rich person to the right, and what appears to be a German next to him. The person a bit behind me knows all the answers. It's the seat on their left, their surname and the seat on their right. | Maybe it would help if you sat at a table regularly as well | in the end a black bird will guide the way | no more hints, PERIOD
 
 Arguably the hardest interlude. People should look for the periodic table of
@@ -268,26 +266,26 @@ the Hitchhiker's Guide to the Galaxy's answer to everything - 42.
 Left of them is Chromium (Cr), right of them is Tungsten (W), together with
 the o from Molybdenum you get `######crow`, which is the black bird hinted at.
 
-## Level 18
+## Level 18 (vehk)
 ### Clues: 9 8 7 4 1 2 3 | 7 8 5 2 3 | 1 4 8 5 6 3 | 7 4 5 9 6 3 | 1 4 7 8 6 2 | 3x3 | numpad
 
 The numbers given in the topic, when followed on the numpad, spell out:
 ``c2a4d``.
 
 At this point, players were expected to figure out how that related to video
-games. In the original Half-Life, map names were a combination of letters and
+games. In the original _Half-Life_, map names were a combination of letters and
 digits. The level with the map name c2a4d was called ``Questionable Ethics``.
 
 Therefore, `######QuestionableEthics`
 
-## Level 19
+## Level 19 (Fuchs)
 ### Clues: Foff0 Xuho: Te u ###### (Q eh H knaso)! | https://www.youtube.com/watch?v=l-O5IHVhWj0 | All I wanted was having a blast, got lousy staff instead | Good Luck | https://imgur.com/a/ihv0x
 
-Obviously I had to somehow bring in the Star Fox video game series, as it is
+Obviously I had to somehow bring in the _Star Fox_ video game series, as it is
 one of my all time favourites. However, the regular ones would have been all
-rather easy, so I took the probably least known game out of it, Star Fox
-Adventures. A rather unusual game, since it's not a space shooter, but a
-Legend of Zelda inspired adventure game, and the very last game Rare developed
+rather easy, so I took the probably least known game out of it, _Star Fox
+Adventures_. A rather unusual game, since it's not a space shooter, but a
+_Legend of Zelda_ inspired adventure game, and the very last game Rare developed
 for a Nintendo console.
 
 In this game, you get a very annoying sidekick dinosaur called Tricky, hence
@@ -314,7 +312,7 @@ Star Fox game where Peppy shouts this at you as a hint.
 Translating ``barrel roll`` back to dinosaur finally gave you the channel
 name: `######ruhhochecc`.
 
-## Level 20
+## Level 20 (vehk/atk)
 ### Clues: https://is.gd/XI9zXU | middle
 
 Putting the audio file from the topic into a spectrogram analyzer yielded a
@@ -322,18 +320,18 @@ set of emoji characters: 👨🖌️3️ 🅿️🌴
 
 With a little bit of imagination, one arrives at ``Guy Brush Three P Wood``,
 which, when searched for or remembered, is the name of the protagonist of the
-Monkey Island games.
+_Monkey Island_ games.
 
 Guybrush Threepwood has a middle name, Ulysses. Therefore, the solution
 channel was: `######ulysses`
 
-## Level 21
+## Level 21 (ybden/vehk)
 ### Clues: https://is.gd/FwIbsg
 
-The penultimate level. The image depicts a Fez, hinting at the game FEZ, a
-puzzle-platformer. Not immediately visible, but discernible after some
-modification in an image editor, one comes across hieroglyph-like characters
-in the top right corner of the image.
+The penultimate level. The image depicts a Fez, hinting at the
+game _FEZ_, a puzzle-platformer. Not immediately visible, but
+discernible after some modification in an image editor, one comes across
+hieroglyph-like characters in the top right corner of the image.
 
 The characters are from FEZ's in-game alphabet, and spell out text from the
 Rosetta Stone after being deciphered: ``PTOLEMY, THE EVER-LIVING, THE BELOVED
@@ -341,7 +339,7 @@ OF PTAH, THE GOD EPIPHANES EUCHARISTOS``.
 
 The solution therefore: `######rosettastone`
 
-## Level 22
+## Level 22 (vehk)
 ### Clues: Do you want to win?
 
 Possibly the most complex of this year's puzzles - and the final level.
