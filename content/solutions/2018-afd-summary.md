@@ -204,7 +204,7 @@ Up, Up, Down, Down, Left, Right, Left, Right, B, A.
 
 The matching solution channel is therefore `######UUDDLRLRBA`
 
-## Level 15 (vehk)
+## Level 15 (Fuchs/vehk)
 ### Clues: VAC | IRC | Mean, Median, ... | / | here
 
 This puzzle was a very obscure one, and originally only the first
@@ -339,7 +339,7 @@ OF PTAH, THE GOD EPIPHANES EUCHARISTOS``.
 
 The solution therefore: `######rosettastone`
 
-## Level 22 (vehk)
+## Level 22 (grumble/vehk)
 ### Clues: Do you want to win?
 
 Possibly the most complex of this year's puzzles - and the final level.
