@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 
 THEME = '/home/yano/dev/pelican-themes/eevee'
-#THEME = '/home/yano/dev/pelican-themes/subtle'
+#THEMEPATH = '/home/yano/dev/pelican-themes'
+#THEME = 'eevee'
 AUTHOR = u'yano'
 SITENAME = u"#ircpuzzles"
-SITEURL = 'https://ircpuzzles.org'
+SITEURL = 'https://blog.ircpuzzles.org'
 
 TYPOGRIFY = False
 
@@ -57,8 +58,8 @@ PLUGINS = ['assets', 'extract_toc', 'headerid', 'lightbox', 'neighbors', 'relate
 
 USE_AUTHOR_CARD = False
 
-#THEME_PRIMARY = 'blue'
-#THEME_ACCENT = 'amber'
+#THEME_PRIMARY = 'pink'
+#THEME_ACCENT = 'pink'
 
 LINKS = (
         ('freenode', 'https://freenode.net/'),
@@ -71,3 +72,5 @@ USE_OPEN_GRAPH = True
 #TYPOGRIFY_IGNORE_TAGS = ['pre', 'code', 'meta', 'title']
 
 GOOGLE_ANALYTICS = 'UA-51072782-1'
+
+META_FOOTER = False
