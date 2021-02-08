@@ -26,3 +26,6 @@ In 2013, due to an overwhelming amount of volunteers and individuals who wanted 
 In 2014, *#ircpuzzles* held its first annual April Fool's Day Puzzle Competition. And #ircpuzzles has been hosting a yearly competition every April 1st since then.
 
 And the rest is history.
+
+<br />
+Updated: 2021-02-08

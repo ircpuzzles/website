@@ -11,6 +11,17 @@ TYPOGRIFY = False
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+
+AUTHOR_URL = 'author/{slug}/'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+AUTHORS_URL = 'authors/'
+AUTHORS_SAVE_AS = 'authors/index.html'
+
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAGS_URL = 'tags/'
+TAGS_SAVE_AS = 'tags/index.html'
+
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
@@ -49,6 +60,7 @@ CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 CATEGORIES_URL = 'categories/'
 CATEGORIES_SAVE_AS = 'categories/index.html'
+
 DIRECT_TEMPLATES = ['index', 'categories', 'archives', 'search']
 
 PLUGIN_PATHS = ['/home/yano/dev/pelican-plugins']
@@ -62,11 +74,12 @@ USE_AUTHOR_CARD = False
 #THEME_ACCENT = 'pink'
 
 LINKS = (
-        ('freenode', 'https://freenode.net/'),
-        )
+    ('freenode', 'https://freenode.net/'),
+)
+
 
 USE_TWITTER_CARDS = True
-TWITTER_USERNAME = "ircpuzzles"
+TWITTER_USERNAME = 'ircpuzzles'
 USE_OPEN_GRAPH = True
 
 #TYPOGRIFY_IGNORE_TAGS = ['pre', 'code', 'meta', 'title']
