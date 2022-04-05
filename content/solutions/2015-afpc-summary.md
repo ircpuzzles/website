@@ -1,6 +1,6 @@
-Title: 2015 April Fool's Day (AFD) Summary & Solutions
+Title: 2015 April Fool's Day Summary & Solutions
 Date: 2017-03-31 15:47 UTC
-Slug: 2015-afd-summary
+Slug: 2015-afpc-summary
 Author: vehk
 
 ## Level -2

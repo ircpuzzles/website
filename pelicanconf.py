@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 
+#PLUGIN_PATHS = ['/home/yano/dev/pelican-plugins/']
 THEME = '/home/yano/dev/pelican-themes/eevee'
 #THEMEPATH = '/home/yano/dev/pelican-themes'
 #THEME = 'eevee'
 AUTHOR = u'yano'
 SITENAME = u"#ircpuzzles"
 SITEURL = 'https://blog.ircpuzzles.org'
+DOMAIN_PLAUSIBLE = 'blog.ircpuzzles.org'
 
 TYPOGRIFY = False
 
@@ -26,8 +28,12 @@ YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 GITHUB_URL = 'https://github.com/ircpuzzles/'
-DISQUS_SITENAME = 'ircpuzzles'
-COMMENTS_ON_PAGES = True
+
+# Disabled Disqus comments
+#DISQUS_SITENAME = 'ircpuzzles'
+COMMENTS_ON_PAGES = False
+
+
 REVERSE_CATEGORY_ORDER = True
 PATH = 'content'
 OUTPUT_PATH = '/var/www/ircpuzzles.org/public/'
@@ -39,12 +45,13 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 DEFAULT_LANG = 'en'
 
-STATIC_PATHS = ['images',]
+STATIC_PATHS = ['images', 'static']
 
 
 SOCIAL = (
-    ('<i class="fa fa-twitter aria-hidden="true"></i> Twitter', 'https://twitter.com/ircpuzzles'),
-    ('<i class="fa fa-github aria-hidden="true"></i> Github', 'https://github.com/ircpuzzles'),
+    ('<i class="fa fa-twitter" aria-hidden="true"></i> Twitter', 'https://twitter.com/ircpuzzles'),
+    ('<i class="fa fa-github" aria-hidden="true"></i> Github', 'https://github.com/ircpuzzles'),
+    ('<i class="fa fa-twitter" aria-hidden="true"></i> Mastodon', 'https://fosstodon.org/@ircpuzzles'),
  )
 
 
@@ -74,7 +81,7 @@ USE_AUTHOR_CARD = False
 #THEME_ACCENT = 'pink'
 
 LINKS = (
-    ('freenode', 'https://freenode.net/'),
+    ('Libera.Chat', 'https://libera.chat/'),
 )
 
 
@@ -83,7 +90,5 @@ TWITTER_USERNAME = 'ircpuzzles'
 USE_OPEN_GRAPH = True
 
 #TYPOGRIFY_IGNORE_TAGS = ['pre', 'code', 'meta', 'title']
-
-GOOGLE_ANALYTICS = 'UA-51072782-1'
 
 META_FOOTER = False

@@ -1,6 +1,6 @@
-Title: 2016 April Fool's Day (AFD) Summary & Solutions
+Title: 2016 April Fool's Day Summary & Solutions
 Date: 2017-03-31 15:48 UTC
-Slug: 2016-afd-summary
+Slug: 2016-afpc-summary
 Author: vehk
 
 ## Level 0

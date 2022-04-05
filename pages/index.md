@@ -2,15 +2,15 @@ Title: Home
 url:
 save_as: index.html
 page-order: 1
-Date: 2018-03-29 15:03
+Date: 2022-03-15 03:00
 
-Welcome to *#ircpuzzles*!
+Welcome to *`#ircpuzzles`*!
 
-We are an IRC-based puzzle game. Our home is currently in *#ircpuzzles* on chat.freenode.net.
+We are an IRC-based puzzle game. Our home is currently in *#ircpuzzles* on [Libera.Chat](https://libera.chat/).
 
 We host the annual April Fool's Puzzle and Challenges every year on April 1st as part of our celebration for April Fool's Day.
 
-Answers are channel names and individual progress from the first level to the final level.
+Answers are keys to channels and individuals progress from the first level to the final level.
 
 History
 -------
@@ -25,7 +25,12 @@ In 2013, due to an overwhelming amount of volunteers and individuals who wanted 
 
 In 2014, *#ircpuzzles* held its first annual April Fool's Day Puzzle Competition. And #ircpuzzles has been hosting a yearly competition every April 1st since then.
 
+In 2021, during the freenode transition, we migrated to [Libera.Chat](https://libera.chat/) for our new home.
+
+2022: Our *first* April Fool's on Libera.Chat.
+
 And the rest is history.
 
 <br />
-Updated: 2021-02-08
+Updated: 2022-04-05 by 'yano'
+

@@ -1,6 +1,6 @@
 Title: 2018 April Fool's Day Summary & Solutions
 Date: 2018-05-06 16:20
-Slug: 2018-afd-summary
+Slug: 2018-afpc-summary
 Author: vehk
 
 ## Level 0 (vehk)
