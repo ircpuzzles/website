@@ -10,7 +10,7 @@ Thank you for everybody who particpiated! Congratulations to those who finished!
 |  Ranking |  NickServ Account | Finish Time         |
 |----------|-------------------|---------------------|
 | 1.       | V                 | 2022-04-03 14:51:35 |
-| 2.       | alicetries        | 2022-04-03 16:38:34 |
+| 2.       | alice             | 2022-04-03 16:38:34 |
 | 3.       | qt                | 2022-04-04 16:37:29 |
 | 4.       | edef              | 2022-04-04 22:56:43 |
 | 5.       | nikuhodai         | 2022-04-05 02:16:37 |
