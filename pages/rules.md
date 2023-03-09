@@ -6,7 +6,7 @@ Date: 2020-04-01 00:53
 
  * No flooding.
  * No use of ALL CAPS text. Turn off your caps lock.
- * No additional bots in the channel. Only ChanServ and jenni are allowed.
+ * No additional bots in the channel. Only ChanServ is allowed.
  * No automated scripts. (eg: No automatic /me's or messages when you go "away")
  * No personal insults.
  * English is the preferred language, other languages are allowed but in small amounts. Please try to use English as the primary language for communication.
