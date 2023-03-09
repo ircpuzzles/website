@@ -6,9 +6,9 @@ Date: 2022-04-07 12:30
 
 While we appreciate the generosity of folks wanting to financially contribute to #ircpuzzles, we instead encourage folks to donate their financial gifts to one of the following organizations:
 
-* EFF, [https://www.eff.org/](https://www.eff.org/)
+* <a href="https://www.eff.org/" rel="noopener noreferrer" target="_blank">Electronic Frontier Foundation (EFF)</a>
 
-* Internet Archive, [https://archive.org/](https://archive.org/)
+* <a href="https://archive.org/" rel="noopener noreferrer" target="_blank">Internet Archive</a>
 
 We aim to stay a volunteer run organization and the costs associated with running the website are minimal.
 
@@ -16,5 +16,5 @@ Please note, donations to one of these organizations does not grant access to an
 
 Thank you!
 
-Updated: 2022-04-07 by 'yano'
+Updated: 2023-03-09 by 'yano'
 
