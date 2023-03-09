@@ -11,10 +11,10 @@ Date: 2020-04-01 00:53
  * No personal insults.
  * English is the preferred language, other languages are allowed but in small amounts. Please try to use English as the primary language for communication.
  * It is up to the discretion of #ircpuzzles staff and volunteers of who may or may not qualify for ranking at the end.
- * As always do NOT violate any Libera.Chat policies: [https://libera.chat/policies/](https://libera.chat/policies/)
+ * As always, do NOT violate any Libera.Chat policies: [https://libera.chat/policies/](https://libera.chat/policies/)
  * Do _*NOT*_ share anything from the /topics of any of the levels.
- * Teams are allowed, but we encourage folks to play solo. There will be separate leaderboards, one for teams and one for solo folks. The first place prize of the single-char nick is not available to folks playing on teams
+ * Teams are allowed, but we encourage folks to play solo. There will be separate leaderboards, one for teams and one for solo folks.
 
 <br /><br />
 
-Updated: 2022-03-30
+Updated: 2023-03-08
