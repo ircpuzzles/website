@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 
 #PLUGIN_PATHS = ['/home/yano/dev/pelican-plugins/']
-THEME = '/home/yano/dev/pelican-themes/eevee'
+THEME = '/opt/ircpuzzles.org_themes/eevee/'
 #THEMEPATH = '/home/yano/dev/pelican-themes'
 #THEME = 'eevee'
 AUTHOR = u'yano'
 SITENAME = u"#ircpuzzles"
-SITEURL = 'https://blog.ircpuzzles.org'
+SITEURL = 'https://blog.ircpuzzles.org/'
 DOMAIN_PLAUSIBLE = 'blog.ircpuzzles.org'
 
 TYPOGRIFY = False
@@ -36,7 +36,6 @@ COMMENTS_ON_PAGES = False
 
 REVERSE_CATEGORY_ORDER = True
 PATH = 'content'
-OUTPUT_PATH = '/var/www/ircpuzzles.org/public/'
 RELATIVE_URLS = False
 TIMEZONE = 'UTC'
 
@@ -70,8 +69,7 @@ CATEGORIES_SAVE_AS = 'categories/index.html'
 
 DIRECT_TEMPLATES = ['index', 'categories', 'archives', 'search']
 
-PLUGIN_PATHS = ['/home/yano/dev/pelican-plugins']
-
+PLUGIN_PATHS = ['/opt/ircpuzzles.org_plugins/']
 PLUGINS = ['assets', 'extract_toc', 'headerid', 'lightbox', 'neighbors', 'related_posts', 'series', 'tipue_search']
 
 

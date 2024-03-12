@@ -3,7 +3,7 @@ Date: 2022-04-08 12:00
 Slug: 2022-april-fools-rankings
 Author: yano
 
-Thank you for everybody who particpiated! Congratulations to those who finished!
+Thank you for everybody who participated! Congratulations to those who finished!
 
 ## Solo
 
